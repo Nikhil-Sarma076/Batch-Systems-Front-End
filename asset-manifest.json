@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nikhil-Sarma076/Batch-Systems-Front-End/static/css/main.b7827bd7.css",
+    "main.js": "/Nikhil-Sarma076/Batch-Systems-Front-End/static/js/main.33508127.js",
+    "static/js/453.a952c1d6.chunk.js": "/Nikhil-Sarma076/Batch-Systems-Front-End/static/js/453.a952c1d6.chunk.js",
+    "index.html": "/Nikhil-Sarma076/Batch-Systems-Front-End/index.html",
+    "main.b7827bd7.css.map": "/Nikhil-Sarma076/Batch-Systems-Front-End/static/css/main.b7827bd7.css.map",
+    "main.33508127.js.map": "/Nikhil-Sarma076/Batch-Systems-Front-End/static/js/main.33508127.js.map",
+    "453.a952c1d6.chunk.js.map": "/Nikhil-Sarma076/Batch-Systems-Front-End/static/js/453.a952c1d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7827bd7.css",
+    "static/js/main.33508127.js"
+  ]
+}
